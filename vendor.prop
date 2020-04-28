@@ -207,6 +207,9 @@ ro.vendor.extension_library=libqti-perfd-client.so
 # Qualcomm System Daemon
 persist.vendor.qcomsysd.enabled=1
 
+# Perf
+ro.vendor.perf.scroll_opt=true
+
 # Radio
 persist.data.df.iwlan_mux=9
 persist.radio.dynamic_sar=false
