@@ -345,6 +345,7 @@ PRODUCT_PACKAGES += \
     init.qcom.sensors.sh \
     init.qcom.sh \
     init.qcom.usb.sh \
+	init.affinity.sh \
     init.qti.chg_policy.sh \
     init.qti.dcvs.sh
 
