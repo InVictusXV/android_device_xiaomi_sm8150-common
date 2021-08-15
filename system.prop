@@ -18,6 +18,9 @@ persist.vendor.color.matrix=2
 # CNE
 persist.vendor.cne.feature=1
 
+# DeviceParts
+persist.deviceparts.lcd.cabc=1
+
 # DPM
 persist.vendor.dpm.feature=1
 
